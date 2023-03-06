@@ -1,0 +1,5 @@
+C:\Users\mathe\Desktop\Atualizador\Atualizador.exe
+C:\Users\mathe\Desktop\Atualizador\Atualizador.dll
+C:\Users\mathe\Desktop\Atualizador\Atualizador.deps.json
+C:\Users\mathe\Desktop\Atualizador\Atualizador.runtimeconfig.json
+C:\Users\mathe\Desktop\Atualizador\Atualizador.pdb
